@@ -1,16 +1,27 @@
 div{
 	background:  lightgray;
+	display: inline;
+
 }
 
 p{
 	background: black;
 	color:  white;
+	display:inline-block;
+	width: 400px;
 }
 
 span{
 	background: yellow;
+	height: 300px;
+
 }
 
 a{
 	background:  pink;
+}
+
+img{
+	display:block;
+
 }
